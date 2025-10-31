@@ -8,8 +8,8 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Prasanna Asokkumar
+description: "Hi I'm Prasanna Asokkumar and I've worked as an Analyst in Consulting in multiple data roles. My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on continuous learning, actionable insights and business impact. Please visit my Github & LinkedIn pages (or download my CV) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,13 +17,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+resume_url: /docs/Prasanna_Asokkumar_CV.pdf
+avatar_image: /img/Prasanna_Square.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/prasanna-asokkumar/" # Add your linkedln handle
+github: "https://github.com/Prasanna-Asokkumar"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,4 +51,5 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
