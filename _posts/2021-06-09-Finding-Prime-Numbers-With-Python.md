@@ -123,7 +123,7 @@ primes_list = []
 while number_range:
     prime = number_range.pop()
     primes_list.append(prime)
-    multiples = set(range(prime*2, n+1, prime))
+    multiples = set(range(prime * 2, n + 1, prime))
     number_range.difference_update(multiples)
 ```
 
@@ -149,7 +149,7 @@ The next thing to do would be to put it into a function, which you can see below
 def primes_finder(n):
     
     # number range to be checked
-    number_range = set(range(2, n+1))
+    number_range = set(range(2, n + 1))
 
     # empty list to append discovered primes to
     primes_list = []
@@ -158,7 +158,7 @@ def primes_finder(n):
     while number_range:
         prime = number_range.pop()
         primes_list.append(prime)
-        multiples = set(range(prime*2, n+1, prime))
+        multiples = set(range(prime * 2, n + 1, prime))
         number_range.difference_update(multiples)
         
     prime_count = len(primes_list)
@@ -214,7 +214,7 @@ def primes_finder(n):
         prime = min(sorted(number_range))
         number_range.remove(prime)
         primes_list.append(prime)
-        multiples = set(range(prime*2, n+1, prime))
+        multiples = set(range(prime * 2, n + 1, prime))
         number_range.difference_update(multiples)
 
     print(primes_list)
