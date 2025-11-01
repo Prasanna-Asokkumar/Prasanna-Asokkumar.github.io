@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Contrasting Fortunes of Skype and Zoom
-image: "/posts/Skype-vs-Zoom-Thumbnail.png"
+image: "/posts/Skype-vs-Zoom-Thumbnail-hq.png"
 tags: [Skype, Zoom, Power BI, Microsoft Excel, Microsoft PowerPoint]
 ---
 Skype was officially discontinued in May 2025 having been an innovator in the communications and video calling space in the 2000s. As an avid user of Skype in my teenage years and having used a mix of both Skype and Zoom while working at NatWest on client site, I was curious to delve into the data behind the fortunes of both platforms/companies and conducted research into reasons why Skype stagnated & fell behind after failing to adapt and innovate (despite being the original pioneer). I compared and contrasted this to Zoom who conversely succeeded in becoming the industry leader. 
