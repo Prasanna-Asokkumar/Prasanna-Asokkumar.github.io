@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Contrasting Fortunes of Skype and Zoom:
+title: The Contrasting Fortunes of Skype and Zoom (Stagnation vs Innovation - Falling Behind vs Zooming Ahead)
 image: "/posts/Skype_vs_Zoom.webp"
 tags: [Skype, Zoom, Power BI, Microsoft Excel, Microsoft PowerPoint]
 ---
